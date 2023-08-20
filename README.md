@@ -12,7 +12,11 @@ Para correrlo ejecutar:
 
 Hecho con ❤️ por @rmblockcode
 
-[Video completo](https://youtu.be/PSfTevvGlfs)
+## Lista de Videos
+
+[Video 1. Introducción al Dollar Cost Averaging con Python](https://youtu.be/PSfTevvGlfs)
+
+[Video 2. Mi Propio DCA - Parte 2. Armando nuestra arquitectura](https://youtu.be/9NQqomkRxV8)
 
 Suscríbete a mi canal: [Youtube Channel](https://youtube.com/@rmblockcode)
 
@@ -21,7 +25,5 @@ Suscríbete a mi canal: [Youtube Channel](https://youtube.com/@rmblockcode)
 [Instagram](https://www.instagram.com/rmblockcode/)
 
 [Twitch](https://www.twitch.tv/rmblockcode)
-
-[Instagram](https://www.instagram.com/rmblockcode/)
 
 [TikTok](https://www.tiktok.com/@rmblockcode)
